@@ -11,8 +11,8 @@ There are three main files for code: eye_data.ipynb, bank_data.ipynb, utils.py
 
 eye_data.ipynb
 Sections:
-	k-Means
-	Expectation Maximization
+	* k-Means
+	* Expectation Maximization
 	PCA
 	k-Means on PCA
 	EM on PCA
