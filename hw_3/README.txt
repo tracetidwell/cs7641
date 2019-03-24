@@ -1,8 +1,11 @@
+#Github Repo for Code, Data
+https://github.com/tracetidwell/cs7641/tree/master/hw_3
+
 #EEG Eye State Dataset URL
 http://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 
-#Github Repo for Code, Data
-https://github.com/tracetidwell/cs7641/tree/master/hw_2
+#Bank Marketing Dataset URL
+http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 There are three main files for code: eye_data.ipynb, bank_data.ipynb, utils.py
 
