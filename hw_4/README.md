@@ -23,9 +23,9 @@ Run all cells in order to run algorithms or generate analysis used
 * QL Results
 
 Python Environment
-	python 3.7
-	scikitlearn
-	pandas
-	numpy
-	matplotlib
+* python 3.7
+* scikitlearn
+* pandas
+* numpy
+* matplotlib
  
